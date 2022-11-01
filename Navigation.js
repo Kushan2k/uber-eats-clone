@@ -5,6 +5,9 @@ import Home from './Screens/Home'
 import RestuarentDetails from './Screens/RestuarentDetails'
 import { Provider  } from 'react-redux'
 import confugureStore from './Redux/store'
+import Browse from './Screens/Browse'
+import Accounts from './Screens/Accounts'
+import Orders from './Screens/Orders'
 
 export default function Navigation() {
 
@@ -19,7 +22,10 @@ export default function Navigation() {
           headerShown:false
         }} >
           <Stack.Screen name='Home' component={Home} />
-          <Stack.Screen name='RestuarentDetails' component={RestuarentDetails}/>
+          <Stack.Screen name='RestuarentDetails' component={RestuarentDetails} />
+          <Stack.Screen name='Browse' component={Browse}/>
+          <Stack.Screen name='Account' component={Accounts}/>
+          <Stack.Screen name='Orders' component={Orders}/>
 
         </Stack.Navigator>
       </NavigationContainer>

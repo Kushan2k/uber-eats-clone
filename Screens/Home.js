@@ -56,7 +56,7 @@ export default function Home({navigation}) {
       </ScrollView>
 
       <Divider  width={1} />
-      <BottomTabs/>
+      <BottomTabs navigation={navigation} />
 
       
       

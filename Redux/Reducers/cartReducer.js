@@ -14,7 +14,7 @@ const reducer = (state = defaultState, action) => {
       let newState = {...state}
       if (action.payload.checkboxValue) {
         
-        console.log(newState)
+        // console.log(newState)
         newState.selectedItems = {
           items: [...(newState.selectedItems.items), action.payload],
           restuarentName: action.payload.restuarentName

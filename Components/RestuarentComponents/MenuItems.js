@@ -45,7 +45,7 @@ const menuitems = [
 
 export default function MenuItems({restuarentName}) {
 
-  console.log(restuarentName)
+  // console.log(restuarentName)
   const dispatch = useDispatch()
   
   const additem = (item, checkboxValue) => {
