@@ -25,6 +25,27 @@
   - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
   - Web: Any web browser
 
+<div align='center'>
+
+<h2>Uber Eats Clone using React Native & Yelp Api & Redux</h2>
+
+</div>
+
+<div align='center'>
+
+  <img src='https://drive.google.com/uc?export=view&id=1tnXsdAqAodzc0jiR8wEz7dDVm43V8Sng' width='70%' align='center' height='auto'>
+  
+
+  <img src='https://drive.google.com/uc?export=view&id=1tdKQz_tqWb4GBtJVuMYoYigu-TP5U00B' width='70%' align='center' height='auto'>
+
+  <img src='https://drive.google.com/uc?export=view&id=1tY5XtUoMoapSVNX0-7-UyqSpU11U5Ofk' width='70%' align='center' height='auto'>
+
+
+  <img src='https://drive.google.com/uc?export=view&id=1tlJQ0vcvIT5Ks8kDAKnOK9NtodpWea58' width='70%' align='center' height='auto'>
+
+</div>
+
+
 ## Adding Native Code
 
 This project can be run from a web browser or the Expo client app. You may find that you want to add more native code later on. You can do this by ejecting the project and rebuilding it yourself.
